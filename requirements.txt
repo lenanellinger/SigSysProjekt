@@ -1,5 +1,0 @@
-os
-numpy
-matplotlib
-ipywidgets
-scipy.signal
